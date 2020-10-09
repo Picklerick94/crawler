@@ -12,13 +12,13 @@ ctx.verify_mode = ssl.CERT_NONE
 today = DT.date.today()
 
 venues = [
-	{'name': 'fine_yueliangwan', 'filename': '378.csv', 'partnerid': 378, 'shopid': '42'},
-	{'name': 'fine_changshoulu', 'filename': '379.csv', 'partnerid': 379, 'shopid': '36'},
-	{'name': 'fine_889', 'filename': '380.csv', 'partnerid': 380, 'shopid': '41'},
-	{'name': 'fine_xintiandi', 'filename': '381.csv', 'partnerid': 381, 'shopid': '39'},
-	{'name': 'fine_xinggeng', 'filename': '382.csv', 'partnerid': 382, 'shopid': '63'},
-	{'name': 'fine_caoyanglu', 'filename': '376.csv', 'partnerid': 376, 'shopid': '37'},
-	{'name': 'fine_shangchenglu', 'filename': '377.csv', 'partnerid': 377, 'shopid': '38'},
+	# {'name': 'fine_yueliangwan', 'filename': '378.csv', 'partnerid': 378, 'shopid': '42'},
+	# {'name': 'fine_changshoulu', 'filename': '379.csv', 'partnerid': 379, 'shopid': '36'},
+	# {'name': 'fine_889', 'filename': '380.csv', 'partnerid': 380, 'shopid': '41'},
+	# {'name': 'fine_xintiandi', 'filename': '381.csv', 'partnerid': 381, 'shopid': '39'},
+	# {'name': 'fine_xinggeng', 'filename': '382.csv', 'partnerid': 382, 'shopid': '63'},
+	# {'name': 'fine_caoyanglu', 'filename': '376.csv', 'partnerid': 376, 'shopid': '37'},
+	# {'name': 'fine_shangchenglu', 'filename': '377.csv', 'partnerid': 377, 'shopid': '38'},
 	{'name': 'fine_meiluocheng', 'filename': '388.csv', 'partnerid': 388, 'shopid': '34'}
 ]
 
