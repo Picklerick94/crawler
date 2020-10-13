@@ -13,14 +13,14 @@ today = DT.date.today()
 day_num = 0
 
 venues = [
-	# {'name': 'prime_cachet', 'filename': '8.csv', 'partnerid': 8},
-	# {'name': 'supermodelfit', 'filename': '54.csv', 'partnerid': 54},
-	# {'name': 'goldengloves', 'filename': '57.csv', 'partnerid': 57},
-	# {'name': 'prime_fenyang', 'filename': '55.csv', 'partnerid': 55},
-	# {'name': 'shanghai_latin_dance', 'filename': '106.csv', 'partnerid': 106},
-	# {'name': 'xpilates', 'filename': '142.csv', 'partnerid': 142},
-	# {'name': 'boxing_republic', 'filename': '189.csv', 'partnerid': 189},
-	# {'name': 'def_yuyuan', 'filename': '197.csv', 'partnerid': 197},
+	{'name': 'prime_cachet', 'filename': '8.csv', 'partnerid': 8},
+	{'name': 'supermodelfit', 'filename': '54.csv', 'partnerid': 54},
+	{'name': 'goldengloves', 'filename': '57.csv', 'partnerid': 57},
+	{'name': 'prime_fenyang', 'filename': '55.csv', 'partnerid': 55},
+	{'name': 'shanghai_latin_dance', 'filename': '106.csv', 'partnerid': 106},
+	{'name': 'xpilates', 'filename': '142.csv', 'partnerid': 142},
+	{'name': 'boxing_republic', 'filename': '189.csv', 'partnerid': 189},
+	{'name': 'def_yuyuan', 'filename': '197.csv', 'partnerid': 197},
 	{'name': 'visbyversus', 'filename': '272.csv', 'partnerid': 272},
 ]
 

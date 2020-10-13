@@ -13,10 +13,10 @@ today = DT.date.today()
 day_num = 0
 
 venues = [
-	# {'name': 'mysoul', 'filename': '19.csv', 'partnerid': 19},
-	# {'name': 'justyoga_xuhui', 'filename': '63.csv', 'partnerid': 63},
-	# {'name': 'thebarre', 'filename': '101.csv', 'partnerid': 101},
-	# {'name': 'freesoul', 'filename': '62.csv', 'partnerid': 62},
+	{'name': 'mysoul', 'filename': '19.csv', 'partnerid': 19},
+	{'name': 'justyoga_xuhui', 'filename': '63.csv', 'partnerid': 63},
+	{'name': 'thebarre', 'filename': '101.csv', 'partnerid': 101},
+	{'name': 'freesoul', 'filename': '62.csv', 'partnerid': 62},
 	{'name': 'infinitymotion', 'filename': '347.csv', 'partnerid': 347}
 ]
 
